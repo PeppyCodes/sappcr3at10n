@@ -6,3 +6,19 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	text-align: center;
 }
+
+body {
+    color: #7d7d7d;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #f37074;
+    text-transform: uppercase;
+}
+
+a {color: #30B1D8;}
+
+.menu {	background: #34343d;}
