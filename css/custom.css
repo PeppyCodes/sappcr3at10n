@@ -8,7 +8,7 @@ body {
 }
 
 body {
-    color: #7d7d7d;
+    color: #b1b1b1;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -21,4 +21,8 @@ h1, h2, h3, h4, h5, h6 {
 
 a {color: #30B1D8;}
 
-.menu {	background: #34343d;}
+.top-bar {	background: #34343d;}
+
+.menu-text{	background: #34343d;}
+
+.menu a{background: #34343d;}
