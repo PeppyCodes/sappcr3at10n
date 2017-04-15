@@ -13,16 +13,18 @@
 
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="css/parallax.css"/>
+    <link rel="stylesheet" href="css/image-hover.css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
 
 
 <!--             <link rel="stylesheet" type="text/css" href="css/interactive-points-normalize.css" /> -->     
    <link rel="stylesheet" type="text/css" href="css/interactive-points-demo.css" />
         <link rel="stylesheet" type="text/css" href="css/interactive-points-component.css" />
 
-        <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700" rel="stylesheet">
+<link rel="stylesheet" href="sticky.css">
 
     <!-- Scripts -->
-    <script src="js/parallax.js"></script>
+
 
 
 
@@ -32,6 +34,8 @@
 </head>
 
 <body>
+
+
 
 
 
@@ -70,6 +74,7 @@
             <li class="layer" data-depth="0.00"><img src="images/layer6.png"></li>
         </ul>
     </div></section>
+
 
             <section class="interactive-points" id="interactive-1" tabindex="0">
                 <img class="static" src="img/map.png" alt="Map of London" />
@@ -191,6 +196,7 @@
                     </span>
                     </a>
                 </div>
+                
             </div>
             <div class="column">
                 <div class="image-hover-wrapper">
@@ -225,10 +231,15 @@
 
 
 
-    <!-- Scripts -->
+    <!-- Scripts -->    <script src="js/parallax.js"></script>    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/vendor/foundation.js"></script>
+    <script src="js/app.js"></script>
     <script>
 
     // Parallax.js
+
+
     var scene = document.getElementById('scene');
     var parallax = new Parallax(scene);
 
