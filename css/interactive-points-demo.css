@@ -1,0 +1,15 @@
+*, *::after, *::before { -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+
+
+interactive-points a {
+	outline: none;
+	color: #60B8B9;
+	text-decoration: none;
+}
+
+ a:hover, a:focus {
+	color: #fff;
+}
+
+
