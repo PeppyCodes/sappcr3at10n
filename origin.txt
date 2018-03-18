@@ -10,8 +10,8 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/9756.
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\9756.jpg
 Content Type: image/jpeg
 
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2014/06/page_bkgd8.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2014\06\page_bkgd8.jpg
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2014/06/bkgd_bw2.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2014\06\bkgd_bw2.jpg
 Content Type: image/jpeg
 
 Uri: http://dev-static-sites-wp.pantheonsite.io/feed/
@@ -36,6 +36,10 @@ Content Type: text/css
 
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/themes/Avada/assets/css/style.min.css?ver=5.4
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\themes\Avada\assets\css\style.min.css
+Content Type: text/css
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-12038.css?timestamp=1521378002&
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-12038.css
 Content Type: text/css
 
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0
@@ -85,6 +89,42 @@ Content Type: application/json
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev-static-sites-wp.pantheonsite.io%2F&
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-json\oembed\1.0\embed-1
 Content Type: application/json
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-1.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-9.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-4.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-6.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-7.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-3.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-5.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-2.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/SAPP-Creation-Logo.png
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\SAPP-Creation-Logo.png
+Content Type: image/png
 
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/Artboard-1-e15143113174691.png
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\Artboard-1-e15143113174691.png
@@ -158,9 +198,133 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/Busin
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\Business-Card-66x66.png
 Content Type: image/png
 
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/themes/Avada/assets/js/jquory.js?ver=4.9.2
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\themes\Avada\assets\js\jquory.js
+Content Type: application/x-javascript
+
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\plugins\contact-form-7\includes\js\scripts.js
 Content Type: application/x-javascript
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-includes/js/comment-reply.min.js?ver=4.9.2
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-scripts/15b740eb8f1cb6f4953a32dbdae261d5.js?timestamp=1517073141
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-scripts\15b740eb8f1cb6f4953a32dbdae261d5.js
+Content Type: application/x-javascript
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-includes/js/wp-embed.min.js?ver=4.9.2
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1-200x113.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-1-200x113.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1-300x169.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1-400x225.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-1-400x225.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9-200x113.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-9-200x113.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9-300x169.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-9-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9-400x225.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-9-400x225.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4-200x113.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-4-200x113.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4-300x169.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-4-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4-400x225.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-4-400x225.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6-200x113.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-6-200x113.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6-300x169.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-6-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6-400x225.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-6-400x225.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7-200x113.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-7-200x113.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7-300x169.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-7-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7-400x225.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-7-400x225.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3-200x113.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-3-200x113.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3-300x169.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-3-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3-400x225.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-3-400x225.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5-200x113.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-5-200x113.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5-300x169.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-5-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5-400x225.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-5-400x225.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2-200x113.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-2-200x113.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2-300x169.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-2-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2-400x225.jpg
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-2-400x225.jpg
+Content Type: image/jpeg
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/SAPP-Creation-Logo-200x80.png
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\SAPP-Creation-Logo-200x80.png
+Content Type: image/png
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/SAPP-Creation-Logo-300x121.png
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\SAPP-Creation-Logo-300x121.png
+Content Type: image/png
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/SAPP-Creation-Logo-400x161.png
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\SAPP-Creation-Logo-400x161.png
+Content Type: image/png
 
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/SAPP-Creation-Logo-1-200x85.png
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\SAPP-Creation-Logo-1-200x85.png
@@ -526,26 +690,6 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/plugins/fusion-builde
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\play-icon-64.png
 Content Type: image/png
 
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/pause-icon-64.png
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\pause-icon-64.png
-Content Type: image/png
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/thumb-overlay-play.png
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\thumb-overlay-play.png
-Content Type: image/png
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrows_vertical.png
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrows_vertical.png
-Content Type: image/png
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrows_horizontal.png
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrows_horizontal.png
-Content Type: image/png
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\preloader.gif
-Content Type: image/gif
-
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/caption-bg.png
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\caption-bg.png
 Content Type: image/png
@@ -722,24 +866,24 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/plugins/fusion-builde
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\plugins\fusion-builder\inc\lib\assets\fonts\fontawesome\fontawesome-webfont.svg
 Content Type: image/svg+xml
 
-Uri: http://fonts.gstatic.com/s/ptsans/v9/PIPMHY90P7jtyjpXuZ2cLKCWcynf_cDxXwCLxiixG1c.ttf
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\s\ptsans\v9\PIPMHY90P7jtyjpXuZ2cLKCWcynf_cDxXwCLxiixG1c.ttf
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizYRExUiTo99u79D0e0x8mN.ttf
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\s\ptsans\v9\jizYRExUiTo99u79D0e0x8mN.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/ptsans/v9/lILlYDvubYemzYzN7GbLkInF5uFdDttMLvmWuJdhhgs.ttf
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\s\ptsans\v9\lILlYDvubYemzYzN7GbLkInF5uFdDttMLvmWuJdhhgs.ttf
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizdRExUiTo99u79D0e8fOydLxUY.ttf
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\s\ptsans\v9\jizdRExUiTo99u79D0e8fOydLxUY.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/ptsans/v9/FUDHvzEKSJww3kCxuiAo2A.ttf
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\s\ptsans\v9\FUDHvzEKSJww3kCxuiAo2A.ttf
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizaRExUiTo99u79D0KEwA.ttf
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\s\ptsans\v9\jizaRExUiTo99u79D0KEwA.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/ptsans/v9/0XxGQsSc1g4rdRdjJKZrNC3USBnSvpkopQaUR-2r7iU.ttf
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\s\ptsans\v9\0XxGQsSc1g4rdRdjJKZrNC3USBnSvpkopQaUR-2r7iU.ttf
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizfRExUiTo99u79B_mh0O6tKA.ttf
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\s\ptsans\v9\jizfRExUiTo99u79B_mh0O6tKA.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/robotoslab/v7/dazS1PrQQuCxC3iOAJFEJbfB31yxOzP-czbf6AAKCVo.ttf
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\s\robotoslab\v7\dazS1PrQQuCxC3iOAJFEJbfB31yxOzP-czbf6AAKCVo.ttf
+Uri: http://fonts.gstatic.com/s/robotoslab/v7/BngRUXZYTXPIvIBgJJSb6u9mxLCGwRg.ttf
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\s\robotoslab\v7\BngRUXZYTXPIvIBgJJSb6u9mxLCGwRg.ttf
 Content Type: font/ttf
 
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.eot?v=4.7.0
@@ -786,6 +930,10 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/themes/Avada/includes
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.svg
 Content Type: image/svg+xml
 
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-12004.css?timestamp=1521378053&
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-12004.css
+Content Type: text/css
+
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev-static-sites-wp.pantheonsite.io%2Fabout%2F
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-json\oembed\1.0\embed-2
 Content Type: application/json
@@ -810,6 +958,10 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/portfolio_category/business-card
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\portfolio_category\business-card\index.html
 Content Type: text/html
 
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-scripts/3a36f4c61fa5f30c77900fec99acc9a2.js?timestamp=1517072359
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-scripts\3a36f4c61fa5f30c77900fec99acc9a2.js
+Content Type: application/x-javascript
+
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/Business-Card-400x260.png
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\Business-Card-400x260.png
 Content Type: image/png
@@ -817,6 +969,10 @@ Content Type: image/png
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/Business-Card-600x390.png
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\Business-Card-600x390.png
 Content Type: image/png
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-11967.css?timestamp=1521378059&
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-11967.css
+Content Type: text/css
 
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev-static-sites-wp.pantheonsite.io%2Fservices-2%2F
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-json\oembed\1.0\embed-4
@@ -830,6 +986,10 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/revslider/Ava
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\revslider\Avada_Page_Slider\slide_2.jpg
 Content Type: image/jpeg
 
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-11986.css?timestamp=1521378062&
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-11986.css
+Content Type: text/css
+
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev-static-sites-wp.pantheonsite.io%2Fportfolio%2F
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-json\oembed\1.0\embed-6
 Content Type: application/json
@@ -841,6 +1001,10 @@ Content Type: application/json
 Uri: http://dev-static-sites-wp.pantheonsite.io/contact/feed/
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\contact\feed\index.htm
 Content Type: application/rss+xml
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-86.css?timestamp=1521371306&
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-86.css
+Content Type: text/css
 
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev-static-sites-wp.pantheonsite.io%2Fcontact%2F
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-json\oembed\1.0\embed-8
@@ -858,13 +1022,25 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/author/gr8-karthi/feed/
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\author\gr8-karthi\feed\index.htm
 Content Type: application/rss+xml
 
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-1-archive.css?timestamp=1521378129&
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-1-archive.css
+Content Type: text/css
+
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-login.php
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-login.html
 Content Type: text/html
 
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-scripts/32fc398ccd8dafae911cbe47dd39b164.js?timestamp=1517072385
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-scripts\32fc398ccd8dafae911cbe47dd39b164.js
+Content Type: application/x-javascript
+
 Uri: http://dev-static-sites-wp.pantheonsite.io/portfolio-items/cup-design/feed/
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\portfolio-items\cup-design\feed\index.htm
 Content Type: application/rss+xml
+
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-12250.css?timestamp=1521378141&
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-12250.css
+Content Type: text/css
 
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev-static-sites-wp.pantheonsite.io%2Fportfolio-items%2Fcup-design%2F
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-json\oembed\1.0\embed-10
@@ -878,6 +1054,10 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/portfolio-items/business-card/fe
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\portfolio-items\business-card\feed\index.htm
 Content Type: application/rss+xml
 
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-12247.css?timestamp=1521378146&
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-12247.css
+Content Type: text/css
+
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev-static-sites-wp.pantheonsite.io%2Fportfolio-items%2Fbusiness-card%2F
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-json\oembed\1.0\embed-12
 Content Type: application/json
@@ -886,15 +1066,11 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/wp-json/oembed/1.0/embed?url=htt
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-json\oembed\1.0\embed-13
 Content Type: application/json
 
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-scripts/3a36f4c61fa5f30c77900fec99acc9a2.js?timestamp=1517072359
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-scripts\3a36f4c61fa5f30c77900fec99acc9a2.js
-Content Type: application/x-javascript
-
 Uri: http://dev-static-sites-wp.pantheonsite.io/portfolio_category/cup-design/feed/
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\portfolio_category\cup-design\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-119-archive.css?timestamp=1517072465&
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-119-archive.css?timestamp=1521378392&
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-119-archive.css
 Content Type: text/css
 
@@ -902,207 +1078,11 @@ Uri: http://dev-static-sites-wp.pantheonsite.io/portfolio_category/business-card
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\portfolio_category\business-card\feed\index.htm
 Content Type: application/rss+xml
 
+Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-118-archive.css?timestamp=1521378399&
+File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-118-archive.css
+Content Type: text/css
+
 Uri: http://dev-static-sites-wp.pantheonsite.io/wp-login.php?action=lostpassword
 File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-login-1.html
 Content Type: text/html
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-11967.css?timestamp=1517073201&
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-11967.css
-Content Type: text/css
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-86.css?timestamp=1517072641&
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-86.css
-Content Type: text/css
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-scripts/32fc398ccd8dafae911cbe47dd39b164.js?timestamp=1517072385
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-scripts\32fc398ccd8dafae911cbe47dd39b164.js
-Content Type: application/x-javascript
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-12038.css?timestamp=1517079411&
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-12038.css
-Content Type: text/css
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-1.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-9.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-4.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-6.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-7.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-3.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-5.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-2.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/SAPP-Creation-Logo.png
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\SAPP-Creation-Logo.png
-Content Type: image/png
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/themes/Avada/assets/js/jquory.js?ver=4.9.2
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\themes\Avada\assets\js\jquory.js
-Content Type: application/x-javascript
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-includes/js/comment-reply.min.js?ver=4.9.2
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-includes\js\comment-reply.min.js
-Content Type: application/x-javascript
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-scripts/99ce3442723b753b68495631df307155.js?timestamp=1517079411
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-scripts\99ce3442723b753b68495631df307155.js
-Content Type: application/x-javascript
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-includes/js/wp-embed.min.js?ver=4.9.2
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-includes\js\wp-embed.min.js
-Content Type: application/x-javascript
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1-200x113.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-1-200x113.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1-300x169.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-1-300x169.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1-400x225.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-1-400x225.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9-200x113.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-9-200x113.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9-300x169.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-9-300x169.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9-400x225.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-9-400x225.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4-200x113.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-4-200x113.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4-300x169.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-4-300x169.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4-400x225.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-4-400x225.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6-200x113.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-6-200x113.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6-300x169.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-6-300x169.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6-400x225.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-6-400x225.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7-200x113.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-7-200x113.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7-300x169.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-7-300x169.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7-400x225.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-7-400x225.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3-200x113.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-3-200x113.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3-300x169.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-3-300x169.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3-400x225.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-3-400x225.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5-200x113.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-5-200x113.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5-300x169.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-5-300x169.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5-400x225.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-5-400x225.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2-200x113.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-2-200x113.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2-300x169.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-2-300x169.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2-400x225.jpg
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\layerslider\Flying-Banners-1\feature-templates-2-400x225.jpg
-Content Type: image/jpeg
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/SAPP-Creation-Logo-200x80.png
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\SAPP-Creation-Logo-200x80.png
-Content Type: image/png
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/SAPP-Creation-Logo-300x121.png
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\SAPP-Creation-Logo-300x121.png
-Content Type: image/png
-
-Uri: https://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/2018/01/SAPP-Creation-Logo-400x161.png
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\2018\01\SAPP-Creation-Logo-400x161.png
-Content Type: image/png
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-12004.css?timestamp=1517079604&
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-12004.css
-Content Type: text/css
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-11986.css?timestamp=1517079611&
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-11986.css
-Content Type: text/css
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-1-archive.css?timestamp=1517079619&
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-1-archive.css
-Content Type: text/css
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-12250.css?timestamp=1517079634&
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-12250.css
-Content Type: text/css
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-12247.css?timestamp=1517079640&
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-12247.css
-Content Type: text/css
-
-Uri: http://dev-static-sites-wp.pantheonsite.io/wp-content/uploads/fusion-styles/fusion-118-archive.css?timestamp=1517079889&
-File Name: G:\Cyotek\dev-static-sites-wp.pantheonsite.io\wp-content\uploads\fusion-styles\fusion-118-archive.css
-Content Type: text/css
 
