@@ -2,285 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f94d4a6d-ea90-46b5-954d-a3f3ba333267" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sappcr3at10n.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/author/gr8-karthi/feed/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/author/gr8-karthi/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comments/feed/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/feed/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-wcopy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/origin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-items/business-card/feed/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-items/business-card/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-items/cup-design/feed/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-items/cup-design/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_category/business-card/feed/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_category/business-card/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_category/cup-design/feed/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_category/cup-design/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/s/ptsans/v9/jizYRExUiTo99u79D0e0x8mN.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/s/ptsans/v9/jizaRExUiTo99u79D0KEwA.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/s/ptsans/v9/jizdRExUiTo99u79D0e8fOydLxUY.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/s/ptsans/v9/jizfRExUiTo99u79B_mh0O6tKA.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/s/robotoslab/v7/BngRUXZYTXPIvIBgJJSb6u9mxLCGwRg.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/images/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/alert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-vertical-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-vertical-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/buttons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/caption-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/fullscreen-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/pause-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/play-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/preloader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/thumb-overlay-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/x-mark-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/alert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-vertical-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-vertical-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/buttons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/caption-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/fullscreen-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/pause-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/play-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/preloader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/thumb-overlay-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/x-mark-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/alert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-vertical-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/caption-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-vertical-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/preloader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/thumb-overlay-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/alert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrow-next-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrow-prev-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/buttons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/caption-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/fullscreen-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/play-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/preloader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/social-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/x-mark-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/alert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-hover-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-hover-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_horizontal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_vertical.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/buttons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/caption-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-hover-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-hover-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-hover-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/thumb-overlay-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-hover-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/alert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/buttons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/caption-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/preloader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/thumb-overlay-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/alert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-next-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-prev-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_horizontal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_vertical.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/buttons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/caption-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/fullscreen-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/pause-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/play-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/preloader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/thumb-overlay-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/x-mark-icon-64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/delicious_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/digg_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/facebook_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/google_plus_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/reddit_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/twitter_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont-1.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/assets/coloredbg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/assets/gridtile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/assets/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/css/closedhand.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/css/openhand.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/css/settings.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/assets/css/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/assets/images/shadow-bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/assets/images/shadow-top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/assets/js/jquory.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont-1.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon-1.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/includes/lib/assets/min/js/library/infobox_packed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2014/06/bkgd_bw2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/9756.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Artboard-1-e15143113174691.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Artboard-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Business-Card-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Business-Card-200x130.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Business-Card-400x260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Business-Card-600x390.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Business-Card-66x66.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Business-Card.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Cup-Design-150x150.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Cup-Design-200x200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Cup-Design-300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Cup-Design-400x400.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Cup-Design-66x66.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/Cup-Design.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/SAPP-Creation-Logo-1-200x85.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/SAPP-Creation-Logo-1-300x128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/SAPP-Creation-Logo-1-400x171.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/SAPP-Creation-Logo-1-600x256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/SAPP-Creation-Logo-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/SAPP-Creation-Logo-200x80.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/SAPP-Creation-Logo-300x121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/SAPP-Creation-Logo-400x161.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/SAPP-Creation-Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/a-320x202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/a-700x441.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/b-320x202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/b-700x441.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/c-320x202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/c-700x441.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/d-320x202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/d-700x441.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/e-320x202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/e-700x441.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/f-320x202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/f-700x441.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/g-320x202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/g-700x441.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-scripts/15b740eb8f1cb6f4953a32dbdae261d5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-scripts/32fc398ccd8dafae911cbe47dd39b164.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-scripts/3a36f4c61fa5f30c77900fec99acc9a2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-styles/fusion-1-archive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-styles/fusion-118-archive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-styles/fusion-119-archive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-styles/fusion-11967.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-styles/fusion-11986.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-styles/fusion-12004.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-styles/fusion-12038.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-styles/fusion-12247.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-styles/fusion-12250.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/fusion-styles/fusion-86.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1-200x113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1-300x169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1-400x225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2-200x113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2-300x169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2-400x225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3-200x113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3-300x169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3-400x225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4-200x113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4-300x169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4-400x225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5-200x113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5-300x169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5-400x225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6-200x113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6-300x169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6-400x225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7-200x113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7-300x169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7-400x225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9-200x113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9-300x169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9-400x225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/layerslider/Flying-Banners-1/feature-templates-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/revslider/Avada_Page_Slider/slide_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/js/comment-reply.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jquery-migrate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/js/wp-embed.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/wlwmanifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-json/oembed/1.0/embed-9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-login-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlrpc.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -288,13 +11,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scss/theme/_home.scss">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="26" column="97" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
+            <state relative-caret-position="166">
+              <caret line="352" column="50" selection-start-line="352" selection-start-column="46" selection-end-line="352" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -313,6 +41,9 @@
       <find>coun</find>
       <find>logo</find>
       <find>gra</find>
+      <find>c1.jpg</find>
+      <find>.jpg</find>
+      <find>excl</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -323,9 +54,9 @@
       <list>
         <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/theme/_variables.scss" />
         <option value="$PROJECT_DIR$/scss/theme/_home.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -340,6 +71,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -377,7 +109,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -414,17 +145,19 @@
       <workItem from="1550731366688" duration="776000" />
       <workItem from="1550734408582" duration="2040000" />
       <workItem from="1550742710891" duration="5411000" />
+      <workItem from="1551526814263" duration="47000" />
+      <workItem from="1558879274006" duration="362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8227000" />
+    <option name="totallyTimeSpent" value="8636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -482,13 +215,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="49" column="71" selection-start-line="49" selection-start-column="71" selection-end-line="49" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/theme/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -534,6 +260,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="26" column="97" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="352" column="50" selection-start-line="352" selection-start-column="46" selection-end-line="352" selection-end-column="50" />
         </state>
       </provider>
     </entry>
